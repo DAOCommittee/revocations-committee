@@ -1,1 +1,9 @@
-# revocations-committee
+# Revocation Committee
+
+### Addresses
+|Name|Address|
+|-|-|
+|Bay|0x1e105bb213754519903788022b962fe2B9C4B263|
+|MetaDoge|0x05060Fa97e54a812d1E15cEc6c34e79f74eBD0b3|
+|Maryana|0x9937E3e274be96a624d7Cd00F384EB71c741Dd1b|
+|Dax|0x895Be97bDb9F8a244c472B18EA96DeE39ddf8fe5|
